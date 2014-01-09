@@ -1,0 +1,1 @@
+Written for The Music Connection (tmc.berkeley.edu), this is a program to assign tutors to sections based on their preferences and rankings of different times. Based off of Robert Huang's program (https://github.com/robhuang/assign-sections).

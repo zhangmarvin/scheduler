@@ -1,0 +1,10 @@
+Tutor tutor0 (0@blah) has been assigned the following placements: 1
+Tutor tutor1 (1@blah) has been assigned the following placements: 29
+Tutor tutor2 (2@blah) has been assigned the following placements: 12
+Tutor tutor3 (3@blah) has been assigned the following placements: 17, 18, 21, 15
+Tutor tutor4 (4@blah) has been assigned the following placements: 5
+Tutor tutor5 (5@blah) has been assigned the following placements: 16, 13
+Tutor tutor6 (6@blah) has been assigned the following placements: 19
+Tutor tutor7 (7@blah) has been assigned the following placements: 6
+Tutor tutor8 (8@blah) has been assigned the following placements: 8, 9, 10
+Tutor tutor9 (9@blah) has been assigned the following placements: 4
