@@ -1,0 +1,29 @@
+Alana Tran: T 4, Th 4
+Albert Wu: T 5, W 1, Th 5
+Austin Le: W 3
+Brian Hou: M 3, Th 4
+Dickson Tsai: Th 2, M 4, Th 3
+Harold Pimentel: T 11, W 1
+Jessica Gu: Th 1
+Joy Jeng: M 3, M 4, Th 5
+Kevin Chen: T 3, T 4, Th 3
+Marvin Zhang: T 2
+Max Wolffe: F 11, F 12, F 1
+Michelle Tian: M 12
+Robert Huang: T 1
+Rohan Chitnis: M 1, T 5
+Soumya Basu: M 1, W 12
+Steven Tang: Th 1
+Sumukh Sridhara: M 12, Th 2, W 3
+Timothy Greeno: M 11, W 11, W 12
+Youri Park: W 11
+
+leftover sections:
+('M 11', 1)
+('T 11', 1)
+('T 12', 2)
+('T 1', 1)
+('T 2', 1)
+('T 3', 1)
+('Th 11', 2)
+('Th 12', 2)
